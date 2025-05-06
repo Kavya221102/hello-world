@@ -48,7 +48,7 @@
 { "type": "Feature", "properties": { "OBJECTID": 43, "Name": null, "ID": 6 }, "geometry": { "type": "Point", "coordinates": [ 78.098489222823432, 30.298436389362902 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 44, "Name": "SCHOOL", "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.083113095396371, 30.291018701130987 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 45, "Name": "SCHOOL", "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.087734998347145, 30.265290970396052 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 46, "Name": null, "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.059294840889748, 30.407609184980256 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 46, "Name": "interr", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.059294840889748, 30.407609184980256 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 47, "Name": null, "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.06677641676329, 30.393648766986878 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 48, "Name": null, "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.072367553128785, 30.390453371196998 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 49, "Name": "ARYAN SCHOOL", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.074668540970279, 30.37855880283248 ] } },
